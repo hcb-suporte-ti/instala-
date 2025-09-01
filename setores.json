@@ -1,5 +1,4 @@
 {
-  "Setores": [
     "Administracao",
     "Almoxarifado",
     "Ambulatorio de Especialidades-Cardiologia",
@@ -213,9 +212,7 @@
     "UTI Adulto II",
     "UTI Covid",
     "UTI Infantil",
-    "Vestiario"
-  ],
-  "Quartos": [
+    "Vestiario",
     "Quarto 101","Quarto 102","Quarto 103","Quarto 104","Quarto 105","Quarto 106","Quarto 107",
     "Quarto 152","Quarto 153","Quarto 154","Quarto 155","Quarto 160","Quarto 161","Quarto 162",
     "Quarto 201","Quarto 202","Quarto 203","Quarto 204","Quarto 205","Quarto 206","Quarto 207","Quarto 208","Quarto 209","Quarto 210","Quarto 211","Quarto 212","Quarto 213","Quarto 214","Quarto 215","Quarto 216","Quarto 217","Quarto 218","Quarto 219","Quarto 220","Quarto 221",
@@ -223,10 +220,5 @@
     "Quarto 301","Quarto 302","Quarto 303","Quarto 304","Quarto 305","Quarto 306","Quarto 310","Quarto 311","Quarto 312","Quarto 322","Quarto 323","Quarto 324","Quarto 325","Quarto 326","Quarto 327","Quarto 328","Quarto 329","Quarto 330",
     "Quarto 351","Quarto 352","Quarto 353","Quarto 354","Quarto 355","Quarto 356",
     "Quarto 401","Quarto 402","Quarto 403","Quarto 404","Quarto 405","Quarto 406","Quarto 407","Quarto 408","Quarto 409","Quarto 410","Quarto 411","Quarto 412"
-  ],
-  "NaoUsar": [
-    "Nao usar / Box I - UTI Adulto",
-    "Nao usar / Posto de Enfermagem",
-    "Nao usar / Patrimonio HCB"
-  ]
 }
+
